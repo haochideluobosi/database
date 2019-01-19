@@ -1,1 +1,3 @@
-ceshi
+git add . // 添加文件
+git commit -m '注释'
+git push
