@@ -4,6 +4,6 @@ git commit -m '注释' //本地提交
 git push //上传推送
 
 
-git pull // 拉取文件
+上传完成之后网页和手机端自动更新。
 
-测试手机更新。
+git pull // 拉取文件
